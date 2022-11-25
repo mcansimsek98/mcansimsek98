@@ -7,8 +7,8 @@
 - ⚡ Fun fact: Bodybuilder, Traveling, Books
 
 <br/>
--💡 Github Stats <br/>
--💡 Most Used Languages <br/>
+💡 Github Stats <br/>
+💡 Most Used Languages <br/>
 
 #### Connect with me:
 
