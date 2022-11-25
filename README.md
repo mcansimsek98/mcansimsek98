@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center"> A passionate iOS Mobil developer</h3>
+<h3 align="center">A passionate iOS developer</h3>
 
 - 🌱 I’m currently learning *Swift and SwiftUI*
 - 📫 How to reach me [mehmetsimsek994@gmail.com](mehmetsimsek994@gmail.com)
