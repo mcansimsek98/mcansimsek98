@@ -6,9 +6,9 @@
 - 📄 Know about my experiences [link](https://docs.google.com/document/u/1/d/e/2PACX-1vRQSOG0M2MaWB2tTsUpzxCJpL8vzUV6ws7b5nK0FHE7Cne8gWOyvfxa3akkAaRmeg8H4ocoB0tZyiQE/pub)
 - ⚡ Fun fact: Bodybuilder, Traveling, Books
 
-
--💡 Github Stats
--💡 Most Used Languages
+<br/>
+-💡 Github Stats <br/>
+-💡 Most Used Languages <br/>
 
 #### Connect with me:
 
