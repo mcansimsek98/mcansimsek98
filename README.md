@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Can 👋
 
 <!--
 **mcansimsek98/mcansimsek98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A passionate iOS Mobil developer from Turkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Swift and SwiftUI
+- 📫 How to reach me: mehmetsimsek994@gmail.com
+- 📄 Know about my experiences https://docs.google.com/document/d/e/2PACX-1vRQSOG0M2MaWB2tTsUpzxCJpL8vzUV6ws7b5nK0FHE7Cne8gWOyvfxa3akkAaRmeg8H4ocoB0tZyiQE/pub
+- ⚡ Fun fact: Bodybuilder, Traveling, Books
+
+Connect with me:
+can.smsk__ @cansmsk__dev
+
+💡 Github Stats
+💡 Most Used Languages
 -->
+
+
+
+
+
+
