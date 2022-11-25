@@ -1,7 +1,7 @@
 <p align="center"> 
- **bold ** Hi, I'm Can 👋
+ **Hi, I'm Can 👋** 
  <br/>
- **bold ** A passionate iOS Mobil developer from Turkey
+ **A passionate iOS Mobil developer from Turkey** 
  </p>
  
 - 🌱 I’m currently learning Swift and SwiftUI
