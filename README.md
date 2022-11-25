@@ -28,9 +28,9 @@
 </p>
 
 <details>
-  <summary>:bulb: Github Stats</summary>
+ // <summary>:bulb: Github Stats</summary>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hacisimsek&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=mcansimsek98&theme=radical"
   />
 </details>
 
