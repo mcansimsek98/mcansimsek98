@@ -1,8 +1,7 @@
-<p align="center"> 
- "# Hi, I'm Can 👋"
+<p align="center">Hi, I'm Can 👋</p>
  <br/>
 "## A passionate iOS Mobil developer from Turkey"
- </p>
+
  
 - 🌱 I’m currently learning Swift and SwiftUI
 - 📫 How to reach me: mehmetsimsek994@gmail.com
