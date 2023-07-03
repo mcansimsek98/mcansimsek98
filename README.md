@@ -40,3 +40,5 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcansimsek98&layout=compact"
   />
 </details>
+
+[![](https://visitcount.itsvg.in/api?id=mcansimsek98&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
