@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning *Swift and SwiftUI*
 - 📫 How to reach me [mehmetsimsek994@gmail.com](mehmetsimsek994@gmail.com)
 - 📄 Know about my experiences [Link](https://docs.google.com/document/u/1/d/e/2PACX-1vRQSOG0M2MaWB2tTsUpzxCJpL8vzUV6ws7b5nK0FHE7Cne8gWOyvfxa3akkAaRmeg8H4ocoB0tZyiQE/pub)
-- ⚡ Fun fact *Bodybuilder, Traveling, Books*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
