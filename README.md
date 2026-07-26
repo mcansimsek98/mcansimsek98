@@ -40,29 +40,12 @@
   <img src="https://img.shields.io/badge/SPM-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SPM" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github_dark&hideBorder=true&line1=swift,swiftui,uikit,combine,rxswift&line2=firebase,alamofire,git,github,xcode" alt="Tech stack card" />
-</div>
-
 ---
 
 ### Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats2.vercel.app/api?username=mcansimsek98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcansimsek98&theme=tokyonight" alt="Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mcansimsek98&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mcansimsek98&theme=tokyonight&utcOffset=3" alt="Productive time" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mcansimsek98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
@@ -70,22 +53,26 @@
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/mcansimsek98/Listify"><img src="https://gh-card.dev/repos/mcansimsek98/Listify.svg" alt="Listify" /></a>
-  <a href="https://github.com/mcansimsek98/Live-Currency"><img src="https://gh-card.dev/repos/mcansimsek98/Live-Currency.svg" alt="Live-Currency" /></a>
+  <a href="https://apps.apple.com/tr/app/atv-canl%C4%B1-tv-dizi-i-zle/id388647888"><img src="https://img.shields.io/badge/ATV-Live%20TV%20%26%20Series-0d1117?style=for-the-badge&logo=apple&logoColor=0A84FF&labelColor=161b22" alt="ATV" /></a>
+  <a href="https://apps.apple.com/tr/app/aspor-canl%C4%B1-yay%C4%B1n-haberler/id920353153"><img src="https://img.shields.io/badge/A%20Spor-Sports%20%26%20Live-0d1117?style=for-the-badge&logo=apple&logoColor=FF2D55&labelColor=161b22" alt="A Spor" /></a>
+  <a href="https://apps.apple.com/tr/app/h%C3%BCrriyet-son-dakika-haberler/id307878588"><img src="https://img.shields.io/badge/H%C3%BCrriyet-News-0d1117?style=for-the-badge&logo=apple&logoColor=E5E7EB&labelColor=161b22" alt="Hürriyet" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mcansimsek98/DupliConnect"><img src="https://gh-card.dev/repos/mcansimsek98/DupliConnect.svg" alt="DupliConnect" /></a>
-  <a href="https://github.com/mcansimsek98/XcodeFileTemplates"><img src="https://gh-card.dev/repos/mcansimsek98/XcodeFileTemplates.svg" alt="XcodeFileTemplates" /></a>
+  <a href="https://apps.apple.com/tr/app/milliyet-son-dakika-haberler/id489164377"><img src="https://img.shields.io/badge/Milliyet-News-0d1117?style=for-the-badge&logo=apple&logoColor=9CA3AF&labelColor=161b22" alt="Milliyet" /></a>
+  <a href="https://apps.apple.com/tr/app/otoko%C3%A7-i-hale/id6736943103"><img src="https://img.shields.io/badge/Otoko%C3%A7%20%C4%B0hale-Auction-0d1117?style=for-the-badge&logo=apple&logoColor=34D399&labelColor=161b22" alt="Otokoç İhale" /></a>
+  <a href="https://apps.apple.com/tr/app/bri-talks/id6456481523"><img src="https://img.shields.io/badge/Bri--Talks-Social-0d1117?style=for-the-badge&logo=apple&logoColor=A78BFA&labelColor=161b22" alt="Bri-Talks" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ATV-0A84FF?style=flat-square" alt="ATV" />
-  <img src="https://img.shields.io/badge/A%20Spor-FF2D55?style=flat-square" alt="A Spor" />
-  <img src="https://img.shields.io/badge/H%C3%BCrriyet-111827?style=flat-square" alt="Hürriyet" />
-  <img src="https://img.shields.io/badge/Milliyet-1F2937?style=flat-square" alt="Milliyet" />
-  <img src="https://img.shields.io/badge/Otoko%C3%A7%20%C4%B0hale-059669?style=flat-square" alt="Otokoç" />
-  <img src="https://img.shields.io/badge/Migros%20IK-F59E0B?style=flat-square" alt="Migros IK" />
+  <a href="https://apps.apple.com/us/app/hava%C5%9F-appron/id1493255465"><img src="https://img.shields.io/badge/Hava%C5%9F%20Appron-Aviation-0d1117?style=for-the-badge&logo=apple&logoColor=38BDF8&labelColor=161b22" alt="Havaş Appron" /></a>
+  <a href="https://apps.apple.com/tr/app/migros-i-k-mobil/id1140797333"><img src="https://img.shields.io/badge/Migros%20IK-HR-0d1117?style=for-the-badge&logo=apple&logoColor=FBBF24&labelColor=161b22" alt="Migros IK" /></a>
+  <a href="https://apps.apple.com/bg/app/polsan-art%C4%B1/id1563214637"><img src="https://img.shields.io/badge/Polsan%20Art%C4%B1-Platform-0d1117?style=for-the-badge&logo=apple&logoColor=F472B6&labelColor=161b22" alt="Polsan Artı" /></a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/tr/app/nhaber/id1620544678"><img src="https://img.shields.io/badge/NHaber-News-0d1117?style=for-the-badge&logo=apple&logoColor=F87171&labelColor=161b22" alt="NHaber" /></a>
+  <a href="https://apps.apple.com/us/app/oyak-platform/id1481802364"><img src="https://img.shields.io/badge/Oyak%20Platform-Platform-0d1117?style=for-the-badge&logo=apple&logoColor=94A3B8&labelColor=161b22" alt="Oyak Platform" /></a>
 </p>
 
 <p align="center">
