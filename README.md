@@ -52,78 +52,16 @@
 
 ### Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/tr/app/atv-canl%C4%B1-tv-dizi-i-zle/id388647888">
-        <img src="./assets/projects/atv.svg" alt="ATV" width="340" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://apps.apple.com/tr/app/aspor-canl%C4%B1-yay%C4%B1n-haberler/id920353153">
-        <img src="./assets/projects/a-spor.svg" alt="A Spor" width="340" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/h%C3%BCrriyet-son-dakika-haberler/id307878588">
-        <img src="./assets/projects/hurriyet.svg" alt="Hürriyet" width="340" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/milliyet-son-dakika-haberler/id489164377">
-        <img src="./assets/projects/milliyet.svg" alt="Milliyet" width="340" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/otoko%C3%A7-i-hale/id6736943103">
-        <img src="./assets/projects/otokoc.svg" alt="Otokoç İhale" width="340" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/bri-talks/id6456481523">
-        <img src="./assets/projects/bri-talks.svg" alt="Bri-Talks" width="340" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://apps.apple.com/us/app/hava%C5%9F-appron/id1493255465">
-        <img src="./assets/projects/havas.svg" alt="Havaş Appron" width="340" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/migros-i-k-mobil/id1140797333">
-        <img src="./assets/projects/migros-ik.svg" alt="Migros IK" width="340" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://apps.apple.com/bg/app/polsan-art%C4%B1/id1563214637">
-        <img src="./assets/projects/polsan.svg" alt="Polsan Artı" width="340" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://apps.apple.com/tr/app/nhaber/id1620544678">
-        <img src="./assets/projects/nhaber.svg" alt="NHaber" width="340" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://apps.apple.com/us/app/oyak-platform/id1481802364">
-        <img src="./assets/projects/oyak.svg" alt="Oyak Platform" width="340" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://mehmetcansimsek.com">
+    <img src="./assets/projects/selected-work.svg" alt="Selected work" width="760" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
-  <a href="https://mehmetcansimsek.com">More on mehmetcansimsek.com →</a>
+  <a href="https://mehmetcansimsek.com"><img src="https://img.shields.io/badge/View%20full%20portfolio-mehmetcansimsek.com-161b22?style=for-the-badge&logo=safari&logoColor=58A6FF&labelColor=0d1117" alt="Portfolio" /></a>
 </p>
 
 <div align="center">
