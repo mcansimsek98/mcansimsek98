@@ -52,28 +52,75 @@
 
 ### Projects
 
-<p align="center">
-  <a href="https://apps.apple.com/tr/app/atv-canl%C4%B1-tv-dizi-i-zle/id388647888"><img src="https://img.shields.io/badge/ATV-Live%20TV%20%26%20Series-0d1117?style=for-the-badge&logo=apple&logoColor=0A84FF&labelColor=161b22" alt="ATV" /></a>
-  <a href="https://apps.apple.com/tr/app/aspor-canl%C4%B1-yay%C4%B1n-haberler/id920353153"><img src="https://img.shields.io/badge/A%20Spor-Sports%20%26%20Live-0d1117?style=for-the-badge&logo=apple&logoColor=FF2D55&labelColor=161b22" alt="A Spor" /></a>
-  <a href="https://apps.apple.com/tr/app/h%C3%BCrriyet-son-dakika-haberler/id307878588"><img src="https://img.shields.io/badge/H%C3%BCrriyet-News-0d1117?style=for-the-badge&logo=apple&logoColor=E5E7EB&labelColor=161b22" alt="Hürriyet" /></a>
-</p>
-
-<p align="center">
-  <a href="https://apps.apple.com/tr/app/milliyet-son-dakika-haberler/id489164377"><img src="https://img.shields.io/badge/Milliyet-News-0d1117?style=for-the-badge&logo=apple&logoColor=9CA3AF&labelColor=161b22" alt="Milliyet" /></a>
-  <a href="https://apps.apple.com/tr/app/otoko%C3%A7-i-hale/id6736943103"><img src="https://img.shields.io/badge/Otoko%C3%A7%20%C4%B0hale-Auction-0d1117?style=for-the-badge&logo=apple&logoColor=34D399&labelColor=161b22" alt="Otokoç İhale" /></a>
-  <a href="https://apps.apple.com/tr/app/bri-talks/id6456481523"><img src="https://img.shields.io/badge/Bri--Talks-Social-0d1117?style=for-the-badge&logo=apple&logoColor=A78BFA&labelColor=161b22" alt="Bri-Talks" /></a>
-</p>
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/hava%C5%9F-appron/id1493255465"><img src="https://img.shields.io/badge/Hava%C5%9F%20Appron-Aviation-0d1117?style=for-the-badge&logo=apple&logoColor=38BDF8&labelColor=161b22" alt="Havaş Appron" /></a>
-  <a href="https://apps.apple.com/tr/app/migros-i-k-mobil/id1140797333"><img src="https://img.shields.io/badge/Migros%20IK-HR-0d1117?style=for-the-badge&logo=apple&logoColor=FBBF24&labelColor=161b22" alt="Migros IK" /></a>
-  <a href="https://apps.apple.com/bg/app/polsan-art%C4%B1/id1563214637"><img src="https://img.shields.io/badge/Polsan%20Art%C4%B1-Platform-0d1117?style=for-the-badge&logo=apple&logoColor=F472B6&labelColor=161b22" alt="Polsan Artı" /></a>
-</p>
-
-<p align="center">
-  <a href="https://apps.apple.com/tr/app/nhaber/id1620544678"><img src="https://img.shields.io/badge/NHaber-News-0d1117?style=for-the-badge&logo=apple&logoColor=F87171&labelColor=161b22" alt="NHaber" /></a>
-  <a href="https://apps.apple.com/us/app/oyak-platform/id1481802364"><img src="https://img.shields.io/badge/Oyak%20Platform-Platform-0d1117?style=for-the-badge&logo=apple&logoColor=94A3B8&labelColor=161b22" alt="Oyak Platform" /></a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/tr/app/atv-canl%C4%B1-tv-dizi-i-zle/id388647888">
+        <img src="./assets/projects/atv.svg" alt="ATV" width="340" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/tr/app/aspor-canl%C4%B1-yay%C4%B1n-haberler/id920353153">
+        <img src="./assets/projects/a-spor.svg" alt="A Spor" width="340" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/h%C3%BCrriyet-son-dakika-haberler/id307878588">
+        <img src="./assets/projects/hurriyet.svg" alt="Hürriyet" width="340" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/milliyet-son-dakika-haberler/id489164377">
+        <img src="./assets/projects/milliyet.svg" alt="Milliyet" width="340" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/otoko%C3%A7-i-hale/id6736943103">
+        <img src="./assets/projects/otokoc.svg" alt="Otokoç İhale" width="340" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/bri-talks/id6456481523">
+        <img src="./assets/projects/bri-talks.svg" alt="Bri-Talks" width="340" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/us/app/hava%C5%9F-appron/id1493255465">
+        <img src="./assets/projects/havas.svg" alt="Havaş Appron" width="340" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/migros-i-k-mobil/id1140797333">
+        <img src="./assets/projects/migros-ik.svg" alt="Migros IK" width="340" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/bg/app/polsan-art%C4%B1/id1563214637">
+        <img src="./assets/projects/polsan.svg" alt="Polsan Artı" width="340" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/tr/app/nhaber/id1620544678">
+        <img src="./assets/projects/nhaber.svg" alt="NHaber" width="340" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://apps.apple.com/us/app/oyak-platform/id1481802364">
+        <img src="./assets/projects/oyak.svg" alt="Oyak Platform" width="340" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://mehmetcansimsek.com">More on mehmetcansimsek.com →</a>
